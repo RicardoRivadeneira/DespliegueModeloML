@@ -17,8 +17,7 @@ Creamos un entorno con python 3.7, e instalamos las dependencias necesarias.
     
 ## 3. Evidencias
     
-  ![Screenshot](https://github.com/DavidReveloLuna/API_Gcloud_Streamlit/blob/master/assets/Screenshot.png)
+  ![Screenshot](https://github.com/RicardoRivadeneira/DespliegueModeloML/blob/main/evidencias/Evidencia1.jpeg)
 
-## Agradecimientos
+![Screenshot](https://github.com/RicardoRivadeneira/DespliegueModeloML/blob/main/evidencias/Evidencia2.jpeg)
 
-[Praneeth Kandula](https://medium.com/analytics-vidhya/deploying-streamlit-apps-to-google-app-engine-in-5-simple-steps-5e2e2bd5b172)
